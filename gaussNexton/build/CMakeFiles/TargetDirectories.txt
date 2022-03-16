@@ -1,0 +1,3 @@
+/home/prejudice/learning_slam/src/ch6/gaussNexton/build/CMakeFiles/rebuild_cache.dir
+/home/prejudice/learning_slam/src/ch6/gaussNexton/build/CMakeFiles/gaussNewton.dir
+/home/prejudice/learning_slam/src/ch6/gaussNexton/build/CMakeFiles/edit_cache.dir
